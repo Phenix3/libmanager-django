@@ -1,2 +1,2 @@
 # libmanager-django
-library management system using the django pytho web framework
+library management system using the django python web framework
